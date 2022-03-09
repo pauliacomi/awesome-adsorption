@@ -1,7 +1,8 @@
 # Adsorption Awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Awesome list of open source / freely available tools that can help simulate, treat understand or disseminate adsorption data.
-
+Awesome list of open source / freely available tools that help simulate, 
+treat, understand or disseminate adsorption in porous materials.
+Go ahead and submit a PR if you found something interesting!
 
 ## Table of Contents
 1. [Adsorption data standardization](#Adsorption-data-standardization)
