@@ -62,18 +62,18 @@ Go ahead and submit a PR if you found something interesting!
 - [BEaTmap](https://github.com/PMEAL/beatmap): BET surface area analysis from
   adsorption data implementing the Rouquerol criteria and offering useful
   visualisations. An interactive Web App version exists allowing for easy use.
-<!-- - [pyPUC](https://github.com/sblanky/pyPUC): pyPUC (Python Porosity Uptake
-  Correlator) calculates the optimum pore size range of some type of material
-  for gas uptake at pressures in a range. -->
-- [SESAMI](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b02116) and
-  [SESAMI ML](https://pubs.acs.org/doi/10.1021/acs.jpclett.0c01518) as scripts
-  to estimate surface areas of porous materials using an excess sorption work
-  model and later extended with machine learned (ML) estimations of monolayers.
+- [SESAMI](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b02116), a script
+  to estimate surface areas of porous materials using either/both the BET and
+  excess sorption work model and later extended with machine learned (ML) estimations of monolayers as
+  [SESAMI ML](https://pubs.acs.org/doi/10.1021/acs.jpclett.0c01518).
   One may find the interfaces from the Kulik group useful for the
   [web](https://github.com/hjkgrp/SESAMI_web) and for a
   [GUI](https://github.com/hjkgrp/SESAMI_GUI).
 - [Micromeritics](https://github.com/Micromeritics/micromeritics)-provided
   various adsorption calculations and other support tools for their instruments.
+<!-- - [pyPUC](https://github.com/sblanky/pyPUC): pyPUC (Python Porosity Uptake
+  Correlator) calculates the optimum pore size range of some type of material
+  for gas uptake at pressures in a range. -->
 
 ## Multicomponent adsorption
 
