@@ -92,6 +92,8 @@ Go ahead and submit a PR if you found something interesting!
 - [MCIAST](https://github.com/eliasboegel/MCIAST): A numerical code on
   breakthrough curve modelling for multicomponent gas mixtures based on Ideal
   Adsorption Theory.
+- [GraphIAST](https://github.com/ORC-WUR/GraphIAST): Graphical User Interface 
+  Software for the pyIAST Ideal Adsorption Solution Theory code.
 
 ## Process design
 
