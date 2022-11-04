@@ -71,9 +71,10 @@ Go ahead and submit a PR if you found something interesting!
   [GUI](https://github.com/hjkgrp/SESAMI_GUI).
 - [Micromeritics](https://github.com/Micromeritics/micromeritics)-provided
   various adsorption calculations and other support tools for their instruments.
-<!-- - [pyPUC](https://github.com/sblanky/pyPUC): pyPUC (Python Porosity Uptake
-  Correlator) calculates the optimum pore size range of some type of material
-  for gas uptake at pressures in a range. -->
+- [pyPUC](https://github.com/sblanky/pyPUC): pyPUC (Python Porosity Uptake
+  Correlator) determines the optimum pore size range of some type of material
+  for gas uptake in a pressure range. The calculation uses experimental data
+  and a brute force first principles calculation.
 
 ## Multicomponent adsorption
 
