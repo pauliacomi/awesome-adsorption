@@ -95,6 +95,9 @@ Go ahead and submit a PR if you found something interesting!
   Adsorption Theory.
 - [GraphIAST](https://github.com/ORC-WUR/GraphIAST): Graphical User Interface 
   Software for the pyIAST Ideal Adsorption Solution Theory code.
+- [RUPTURA](https://github.com/iRASPA/RUPTURA): Command-line simulation package to 
+  fit pure component isotherms, then compute breakthrough curves and IAST mixture 
+  predictions.
 
 ## Process design
 
