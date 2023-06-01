@@ -76,6 +76,9 @@ Go ahead and submit a PR if you found something interesting!
   Correlator) determines the optimum pore size range of some type of material
   for gas uptake in a pressure range. The calculation uses experimental data
   and a brute force first principles calculation.
+- [mofdscribe](https://github.com/kjappelbaum/mofdscribe): a package for generating features
+  for MOFs. Allows access to over 40 featurizers via a simple python interface (including henry coefficient via RAPSA, geometric features via Zeo++).
+  Also contains useful tools for ML model validation.
 
 ## Multicomponent adsorption
 
