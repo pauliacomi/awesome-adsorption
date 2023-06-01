@@ -45,6 +45,7 @@ Go ahead and submit a PR if you found something interesting!
 - [Bison 20](https://pubs.acs.org/doi/10.1021/acs.iecr.0c05398?goto=supporting-info):
   A collection of multicomponent adsorption isotherms. Some has been integrated
   in the [NIST ISODB](https://adsorption.nist.gov).
+- [MOFX-DB](https://mof.tech.northwestern.edu/): An online computational database for pure and multicomponent adsorption in MOFs and zeolites. 
 
 ## Adsorption data treatment and material characterization
 
